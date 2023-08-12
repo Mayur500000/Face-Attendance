@@ -10,7 +10,7 @@ import csv
 import os
 
 # Path to the attendance folder
-path = "C:\\Users\\91970\\Downloads\\Updated Attendence\\Online-Face-Attendance--master\\Online-Face-Attendance--master\\Attendance"
+path = "D:\Mayur\code\Online-Face-Attendance--master\Attendance"
 
 # Load known images
 images = []
