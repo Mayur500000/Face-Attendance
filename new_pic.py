@@ -22,7 +22,7 @@ def capture_photo(name):
         # Wait for the 's' key to capture a photo
         if cv2.waitKey(1) & 0xFF == ord('s'):
             # Specify the path to the folder where you want to save the photo
-            folder_path = r'C:\Users\91970\Downloads\Updated Attendence\Online-Face-Attendance--master\Online-Face-Attendance--master\Attendance'
+            folder_path = r'D:\\Mayur\\code\\Online-Face-Attendance--master\Attendance'
 
             # Check if the folder exists, create it if necessary
             if not os.path.exists(folder_path):

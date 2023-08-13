@@ -8,8 +8,9 @@ def open_csv_file(file_path):
             print(row)
 
 # Specify the folder path and file name
-folder_path = r'C:\Users\91970\Downloads\Updated Attendence\Online-Face-Attendance--master\Online-Face-Attendance--master\\'
+folder_path = r'D:\\Mayur\\code\\Online-Face-Attendance--master\\'
 file_name = 'final.csv'
+
 
 # Construct the full file path
 file_path = os.path.join(folder_path, file_name)

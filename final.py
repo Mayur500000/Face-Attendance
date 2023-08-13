@@ -2,7 +2,7 @@ import os
 import csv
 
 # Path to the folder containing the CSV files
-folder_path = r"C:\Users\91970\Downloads\Updated Attendence\Online-Face-Attendance--master\Online-Face-Attendance--master"
+folder_path = r"D:\\Mayur\\code\\Online-Face-Attendance--master\\"
 
 # Initialize a dictionary to store the attendance counts for each person
 attendance_counts = {}

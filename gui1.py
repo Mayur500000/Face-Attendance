@@ -4,16 +4,16 @@ from tkinter import messagebox
 import subprocess
 
 # Define the command to run the attend2.py script
-attend_script = "C:\\Users\\91970\\Downloads\\Updated Attendence\\Online-Face-Attendance--master\\Online-Face-Attendance--master\\attend2.py"
+attend_script = "D:\\Mayur\\code\\Online-Face-Attendance--master\\attend2.py"
 
 # Define the command to run the final.py script
-final_script = "C:\\Users\\91970\\Downloads\\Updated Attendence\\Online-Face-Attendance--master\\Online-Face-Attendance--master\\final.py"
+final_script = "D:\\Mayur\\code\\Online-Face-Attendance--master\\final.py"
 
-Cview_script = "C:\\Users\\91970\\Downloads\\Updated Attendence\\Online-Face-Attendance--master\\Online-Face-Attendance--master\\Cview.py"
+Cview_script = "D:\\Mayur\\code\\Online-Face-Attendance--master\\Cview.py"
 
-out_script = "C:\\Users\\91970\\Downloads\\Updated Attendence\\Online-Face-Attendance--master\\Online-Face-Attendance--master\\out.py"
+out_script = "D:\\Mayur\\code\\Online-Face-Attendance--master\\out.py"
 
-new_pic_script = "C:\\Users\\91970\\Downloads\\Updated Attendence\\Online-Face-Attendance--master\\Online-Face-Attendance--master\\new_pic.py"
+new_pic_script = "D:\\Mayur\\code\\Online-Face-Attendance--master\\new_pic.py"
 
 # Function to execute the attend2.py script
 def run_attend_script():
